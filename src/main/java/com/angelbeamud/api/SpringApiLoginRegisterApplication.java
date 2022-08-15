@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 public class SpringApiLoginRegisterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringApiLoginRegisterApplication.class, args);
+		SpringApplication.run(SpringApiLoginRegisterApplication.class, args); 
 	}
 
 }

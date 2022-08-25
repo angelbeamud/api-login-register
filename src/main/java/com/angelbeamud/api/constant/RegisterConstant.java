@@ -5,7 +5,7 @@ public class RegisterConstant {
     /*
      * Constructor by default
      * */
-    public RegisterConstant() {
+    private RegisterConstant() {
         super();
     }
 
